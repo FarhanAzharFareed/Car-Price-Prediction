@@ -1,0 +1,25 @@
+# 🚗 Car Price Prediction
+
+A machine learning project that predicts the **selling price** of used cars based on various features like present price, kilometers driven, fuel type, and more.
+
+## 📌 Features in Dataset
+
+- `Car_Name` – Name of the car  
+- `Year` – Year of purchase  
+- `Selling_Price` – Price at which the car is being sold  
+- `Present_Price` – Current ex-showroom price of the car  
+- `Kms_Driven` – Kilometers driven  
+- `Fuel_Type` – Petrol / Diesel / CNG  
+- `Seller_Type` – Dealer / Individual  
+- `Transmission` – Manual / Automatic  
+- `Owner` – Number of previous owners  
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas, NumPy
+- Scikit-learn (for ML models)
+- Matplotlib / Seaborn (for visualization)
+- VS Code
+
+
